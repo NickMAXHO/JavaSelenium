@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 
-public class Properties {
+public class CrabProperties {
 
     @Test
     public void testProperties() throws InterruptedException {
